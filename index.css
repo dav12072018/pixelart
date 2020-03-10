@@ -1,0 +1,13 @@
+body {background-color: coral;}
+#canvas{background-color: white;
+height: 200px;
+width: 200px;
+margin: auto;
+grid-template: repeat(20, 1fr) / repeat(20, 1fr);
+display: grid;
+}
+
+#colorPalette{
+    margin: auto;
+    width: 60px;
+}
